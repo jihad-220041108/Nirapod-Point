@@ -1,0 +1,15 @@
+﻿node_modules/
+venv/
+venv_broken/
+__pycache__/
+.expo/
+android/
+ios/
+*.pt
+*.pth
+*.onnx
+.env
+.DS_Store
+repomix-output.xml
+package-lock.json
+Gemfile.lock
