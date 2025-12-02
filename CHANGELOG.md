@@ -4,3 +4,4 @@
 [3] + ADD: Finalize SOS video upload workflow to Supabase
 [4] + ADD: Update API endpoints
 [5] + ADD: Add validation for email input
+[6] + ADD: Add nearest police station detection logic
