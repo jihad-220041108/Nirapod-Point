@@ -5,3 +5,4 @@
 [4] + ADD: Update API endpoints
 [5] + ADD: Add validation for email input
 [6] + ADD: Add nearest police station detection logic
+[7] + ADD: Improve code readability
