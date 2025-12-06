@@ -7,3 +7,4 @@
 [6] + ADD: Add nearest police station detection logic
 [7] + ADD: Improve code readability
 [8] + ADD: Improve dashboard loading speed
+[9] + ADD: Configure Celery for background vision processing
