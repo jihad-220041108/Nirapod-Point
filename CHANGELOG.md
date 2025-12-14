@@ -10,3 +10,4 @@
 [9] + ADD: Configure Celery for background vision processing
 [10] + ADD: Optimize YOLOv9 inference script
 [11] + ADD: Update color palette
+[12] - DEL: Setup battery-optimized background tracking frequency
