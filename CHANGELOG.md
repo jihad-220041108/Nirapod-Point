@@ -12,3 +12,4 @@
 [11] + ADD: Update color palette
 [12] - DEL: Setup battery-optimized background tracking frequency
 [13] - DEL: Update: Add validation for email input
+[14] + ADD: Implement search feature
