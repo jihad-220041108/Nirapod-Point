@@ -13,3 +13,4 @@
 [12] - DEL: Setup battery-optimized background tracking frequency
 [13] - DEL: Update: Add validation for email input
 [14] + ADD: Implement search feature
+[15] + ADD: Configure Firebase Cloud Messaging for push alerts
