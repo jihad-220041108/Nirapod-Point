@@ -14,3 +14,4 @@
 [13] - DEL: Update: Add validation for email input
 [14] + ADD: Implement search feature
 [15] + ADD: Configure Firebase Cloud Messaging for push alerts
+[16] + ADD: Style: Increase padding in cards
