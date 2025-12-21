@@ -15,3 +15,4 @@
 [14] + ADD: Implement search feature
 [15] + ADD: Configure Firebase Cloud Messaging for push alerts
 [16] + ADD: Style: Increase padding in cards
+[17] + ADD: Add error handling for network requests
