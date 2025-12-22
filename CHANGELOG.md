@@ -16,3 +16,4 @@
 [15] + ADD: Configure Firebase Cloud Messaging for push alerts
 [16] + ADD: Style: Increase padding in cards
 [17] + ADD: Add error handling for network requests
+[18] + ADD: Integrate CLIP scene classification for context analysis
