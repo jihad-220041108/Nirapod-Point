@@ -19,3 +19,4 @@
 [18] + ADD: Integrate CLIP scene classification for context analysis
 [19] + ADD: Fix typo in navigation menu
 [20] - DEL: Update user profile styles
+[21] + ADD: Add auto-generated crime titles from AI analysis
