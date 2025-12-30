@@ -22,3 +22,4 @@
 [21] + ADD: Add auto-generated crime titles from AI analysis
 [22] + ADD: Update font family globally
 [23] - DEL: Clean up unused code in utils
+[24] - DEL: Implement geofencing for danger zone notifications
