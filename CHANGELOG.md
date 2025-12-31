@@ -23,3 +23,4 @@
 [22] + ADD: Update font family globally
 [23] - DEL: Clean up unused code in utils
 [24] - DEL: Implement geofencing for danger zone notifications
+[25] - DEL: Docs: Update README with setup
