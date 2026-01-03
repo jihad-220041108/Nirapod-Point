@@ -25,3 +25,4 @@
 [24] - DEL: Implement geofencing for danger zone notifications
 [25] - DEL: Docs: Update README with setup
 [26] + ADD: Add basic authentication layout
+[27] + ADD: Add No-crime-detected logic to vision service
