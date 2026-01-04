@@ -26,3 +26,4 @@
 [25] - DEL: Docs: Update README with setup
 [26] + ADD: Add basic authentication layout
 [27] + ADD: Add No-crime-detected logic to vision service
+[28] + ADD: Add validation for email input
