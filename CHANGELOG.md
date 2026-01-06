@@ -27,3 +27,4 @@
 [26] + ADD: Add basic authentication layout
 [27] + ADD: Add No-crime-detected logic to vision service
 [28] + ADD: Add validation for email input
+[29] + ADD: Implement confidence calibration for AI detections
