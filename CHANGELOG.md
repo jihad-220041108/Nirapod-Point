@@ -30,3 +30,4 @@
 [29] + ADD: Implement confidence calibration for AI detections
 [30] + ADD: Improve dashboard loading speed
 [31] + ADD: Fix null pointer exception in user service
+[32] + ADD: Clean up unused code in utils
