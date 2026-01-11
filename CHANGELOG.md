@@ -31,3 +31,4 @@
 [30] + ADD: Improve dashboard loading speed
 [31] + ADD: Fix null pointer exception in user service
 [32] + ADD: Clean up unused code in utils
+[33] + ADD: Optimize PostGIS queries for safe route calculation
