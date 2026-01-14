@@ -33,3 +33,4 @@
 [32] + ADD: Clean up unused code in utils
 [33] + ADD: Optimize PostGIS queries for safe route calculation
 [34] - DEL: Fix button alignment on mobile
+[35] - DEL: Fix login responsiveness issue
