@@ -36,3 +36,4 @@
 [35] - DEL: Fix login responsiveness issue
 [36] + ADD: Setup Zustand store for location tracking
 [37] + ADD: Minor UI tweaks
+[38] - DEL: Improve dashboard loading speed
