@@ -39,3 +39,4 @@
 [38] - DEL: Improve dashboard loading speed
 [39] + ADD: Build ML Fusion Engine for cross-model validation
 [40] + ADD: Increase padding in cards
+[41] - DEL: Add basic authentication layout
