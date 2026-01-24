@@ -41,3 +41,4 @@
 [40] + ADD: Increase padding in cards
 [41] - DEL: Add basic authentication layout
 [42] + ADD: Integrate CloudWaveBD for emergency SMS gateway
+[43] + ADD: Update notification logic

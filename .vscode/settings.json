@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "/Users/g.m.noor-ulislamlabib/Desktop/NirapodPoint App/backend/venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/Users/g.m.noor-ulislamlabib/Desktop/NirapodPoint App/backend"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/Users/g.m.noor-ulislamlabib/Desktop/NirapodPoint App/backend"
+    ],
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.typeCheckingMode": "off"
+}
