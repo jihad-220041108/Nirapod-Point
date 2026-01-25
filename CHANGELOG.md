@@ -42,3 +42,4 @@
 [41] - DEL: Add basic authentication layout
 [42] + ADD: Integrate CloudWaveBD for emergency SMS gateway
 [43] + ADD: Update notification logic
+[44] + ADD: Fix: Scroll issue on chat screen
