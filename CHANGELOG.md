@@ -45,3 +45,4 @@
 [44] + ADD: Fix: Scroll issue on chat screen
 [45] + ADD: Implement real-time crime verification logic
 [46] - DEL: Update API endpoints
+[47] - DEL: Add comments to core logic
