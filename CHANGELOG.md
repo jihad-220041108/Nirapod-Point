@@ -46,3 +46,4 @@
 [45] + ADD: Implement real-time crime verification logic
 [46] - DEL: Update API endpoints
 [47] - DEL: Add comments to core logic
+[48] - DEL: Define SQLAlchemy models for SOS emergency alerts
