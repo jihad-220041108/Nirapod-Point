@@ -49,3 +49,4 @@
 [48] - DEL: Define SQLAlchemy models for SOS emergency alerts
 [49] - DEL: Update footer links
 [50] + ADD: Add loading spinners to async actions
+[51] + ADD: Setup JWT authentication in FastAPI backend
