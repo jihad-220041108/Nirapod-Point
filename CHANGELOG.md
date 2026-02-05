@@ -50,3 +50,4 @@
 [49] - DEL: Update footer links
 [50] + ADD: Add loading spinners to async actions
 [51] + ADD: Setup JWT authentication in FastAPI backend
+[52] + ADD: Fix login responsiveness issue
