@@ -51,3 +51,4 @@
 [50] + ADD: Add loading spinners to async actions
 [51] + ADD: Setup JWT authentication in FastAPI backend
 [52] + ADD: Fix login responsiveness issue
+[53] + ADD: Fix typo in navigation menu
