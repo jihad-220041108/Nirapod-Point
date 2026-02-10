@@ -53,3 +53,4 @@
 [52] + ADD: Fix login responsiveness issue
 [53] + ADD: Fix typo in navigation menu
 [54] + ADD: Configure background GPS monitoring service
+[55] + ADD: Implement crime reporting form logic in frontend
