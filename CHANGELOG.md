@@ -58,3 +58,4 @@
 [57] + ADD: Integrate Supabase for crime scene media storage
 [58] - DEL: Setup Redis for real-time heatmap caching
 [59] - DEL: Configure PostGIS for crime hotspot mapping
+[60] + ADD: Implement MediaPipe action recognition for threat levels
