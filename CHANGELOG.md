@@ -55,3 +55,4 @@
 [54] + ADD: Configure background GPS monitoring service
 [55] + ADD: Implement crime reporting form logic in frontend
 [56] + ADD: Add basic SOS voice command recognition
+[57] + ADD: Integrate Supabase for crime scene media storage
