@@ -59,3 +59,4 @@
 [58] - DEL: Setup Redis for real-time heatmap caching
 [59] - DEL: Configure PostGIS for crime hotspot mapping
 [60] + ADD: Implement MediaPipe action recognition for threat levels
+[61] + ADD: Integrate YOLOv9c model for weapon detection
